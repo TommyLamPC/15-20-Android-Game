@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game of 15, 20</string>
+    <string name="Start">Start</string>
+    <string name="Register">Register</string>
+    <string name="History">History</string>
+    <string name="Statistical">Statistical</string>
+    <string name="PlayerName">Player Name : </string>
+    <string name="DOB">Date of Birth : </string>
+    <string name="PhoneNum">Phone Number : </string>
+    <string name="Email">Email : </string>
+    <string name="Reset">Reset</string>
+    <string name="Save">Save</string>
+</resources>
